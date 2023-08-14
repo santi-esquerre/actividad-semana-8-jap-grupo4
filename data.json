@@ -1,0 +1,34 @@
+{
+    "gatitos": [
+      {
+        "nombre": "Whiskers",
+        "edad": 2,
+        "color": "naranja",
+        "juguetes": ["pelota", "ratón de juguete", "rascador"]
+      },
+      {
+        "nombre": "Luna",
+        "edad": 1,
+        "color": "gris",
+        "juguetes": ["pluma", "túnel", "pelota de lana"]
+      },
+      {
+        "nombre": "Max",
+        "edad": 3,
+        "color": "negro",
+        "juguetes": ["pelota, caja de cartón, rascador"]
+      },
+      {
+        "nombre": "Oreo",
+        "edad": 2,
+        "color": "blanco y negro",
+        "juguetes": ["ratón de peluche, túnel, pelota"]
+      },
+      {
+        "nombre": "Bella",
+        "edad": 1,
+        "color": "blanco",
+        "juguetes": ["pelota, ratón de juguete, pluma"]
+      }
+    ]
+  }
