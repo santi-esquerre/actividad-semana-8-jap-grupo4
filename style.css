@@ -1,19 +1,40 @@
 * {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12px;
+    font-size: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    text-align:center;
+    
 }
 
 body {
 
-    background-image: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)), url(images/Fondo.jpg);
+    background-image: linear-gradient(rgba(5, 7, 12, 0.062), rgba(5, 7, 12, 0.75)), url(Images/Fondo.avif);
     background-size: cover; 
     
 }
 
 h1{
-    font-size: x-large;
-
+    font-size: 3em;
 }
 
+.p-title {
+    font-size:1.5em;
+}
+
+h2 {
+    font-size:2em;
+}
+.cats-img {
+    margin-top:30px;
+    margin-bottom:30px;
+    border-radius:30em;
+}
+
+p {
+    line-height:1.5;
+}
+
+span {
+    color:rgb(0, 0, 0);
+}

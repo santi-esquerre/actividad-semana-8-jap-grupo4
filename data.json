@@ -1,39 +1,45 @@
-{
-  "gatitos": [
+  {
+    "gatitos": [
     {
       "nombre": "Whiskers",
       "edad": 2,
       "color": "naranja",
-      "juguetes": ["pelota", "ratón de juguete", "rascador"],
-      "imagen": "images/Whiskers.jpeg"
+      "juguetes": ["pelota", " ratón de juguete", " rascador "],
+      "imagen": "images/Whiskers.jpeg",
+      "comentarios": ["Se parece a garfield", "ese se comió toda la lasaña", "No me gusta"]
     },
     {
       "nombre": "Luna",
       "edad": 1,
       "color": "gris",
       "juguetes": ["pluma", "túnel", "pelota de lana"],
-      "imagen": "images/Luna.jpeg"
+      "imagen": "images/Luna.jpeg",
+      "comentarios": ["Que lindaaa :D", "No hace frio como para que esté en la nieve? indignadooo", " media trucha esa imagen"]
     },
     {
       "nombre": "Max",
       "edad": 3,
       "color": "negro",
       "juguetes": ["pelota, caja de cartón, rascador"],
-      "imagen": "images/Max.jpeg"
+      "imagen": "images/Max.jpeg",
+      "comentarios": ["Salem? eres tu?", "Pablo picasso", " Me gustá el arte!"]
     },
     {
       "nombre": "Oreo",
       "edad": 2,
       "color": "blanco y negro",
       "juguetes": ["ratón de peluche, túnel, pelota"],
-      "imagen": "images/Oreo.jpeg"
+      "imagen": "images/Oreo.jpeg",
+      "comentarios": ["Prefiero las Today.", "Mi prima tiene uno igual!", "hermosoooo"]
+
     },
     {
       "nombre": "Bella",
       "edad": 1,
       "color": "blanco",
       "juguetes": ["pelota, ratón de juguete, pluma"],
-      "imagen": "images/Bella.jpeg"
+      "imagen": "images/Bella.jpeg",
+      "comentarios": ["No es tan bella..", "Adoptadaa!", "que lindaa"]
     }
   ]
 }
